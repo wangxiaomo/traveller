@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>wangxiaomo.space</title>
+  <subtitle>hacking life</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://gist.wangxiaomo.space/"/>
+  <updated>2016-02-19T07:56:25.000Z</updated>
+  <id>http://gist.wangxiaomo.space/</id>
+  
+  <author>
+    <name>wangxiaomo</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>试试图片</title>
+    <link href="http://gist.wangxiaomo.space/2016/02/19/%E8%AF%95%E8%AF%95%E5%9B%BE%E7%89%87/"/>
+    <id>http://gist.wangxiaomo.space/2016/02/19/试试图片/</id>
+    <published>2016-02-19T07:40:43.000Z</published>
+    <updated>2016-02-19T07:56:25.000Z</updated>
+    
+    <content type="html">&lt;img src=&quot;/2016/02/19/试试图片/gintama.jpeg&quot; alt=&quot;gintama.jpeg&quot; title=&quot;&quot;&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;img src=&quot;/2016/02/19/试试图片/gintama.jpeg&quot; alt=&quot;gintama.jpeg&quot; title=&quot;&quot;&gt;
+
+    
+    </summary>
+    
+    
+      <category term="photo" scheme="http://gist.wangxiaomo.space/tags/photo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>wangxiaomo.space 建立</title>
+    <link href="http://gist.wangxiaomo.space/2016/02/19/wangxiaomo-space-%E5%BB%BA%E7%AB%8B/"/>
+    <id>http://gist.wangxiaomo.space/2016/02/19/wangxiaomo-space-建立/</id>
+    <published>2016-02-19T07:39:40.000Z</published>
+    <updated>2016-02-19T07:47:23.000Z</updated>
+    
+    <content type="html">&lt;p&gt;今天蛋疼的买了 &lt;code&gt;wangxiaomo.space&lt;/code&gt; 域名，不贵才9块钱，不知道明年续费的时候能不能便宜点。选这个主题的原因也很简单，每篇blog的篇幅不会长，用timeline的形式更像是自言自语吧，蛮像我的作风的。&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;今天蛋疼的买了 &lt;code&gt;wangxiaomo.space&lt;/code&gt; 域名，不贵才9块钱，不知道明年续费的时候能不能便宜点。选这个主题的原因也很简单，每篇blog的篇幅不会长，用timeline的形式更像是自言自语吧，蛮像我的作风的。&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+      <category term="life" scheme="http://gist.wangxiaomo.space/tags/life/"/>
+    
+  </entry>
+  
+</feed>
