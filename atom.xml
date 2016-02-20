@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>wangxiaomo.space</title>
+  <title>wangxiaomo</title>
   <subtitle>hacking life</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://gist.wangxiaomo.space/"/>
-  <updated>2016-02-19T07:56:25.000Z</updated>
+  <updated>2016-02-20T08:09:25.000Z</updated>
   <id>http://gist.wangxiaomo.space/</id>
   
   <author>
@@ -14,6 +14,60 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>破风02/20</title>
+    <link href="http://gist.wangxiaomo.space/2016/02/20/%E7%A0%B4%E9%A3%8E02-20/"/>
+    <id>http://gist.wangxiaomo.space/2016/02/20/破风02-20/</id>
+    <published>2016-02-20T08:07:46.000Z</published>
+    <updated>2016-02-20T08:09:25.000Z</updated>
+    
+    <content type="html">&lt;img src=&quot;/2016/02/20/破风02-20/riding.jpg&quot; alt=&quot;riding.jpg&quot; title=&quot;&quot;&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;img src=&quot;/2016/02/20/破风02-20/riding.jpg&quot; alt=&quot;riding.jpg&quot; title=&quot;&quot;&gt;
+
+    
+    </summary>
+    
+    
+      <category term="life" scheme="http://gist.wangxiaomo.space/tags/life/"/>
+    
+      <category term="riding" scheme="http://gist.wangxiaomo.space/tags/riding/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>osx defaults 以及 Prefs Editor</title>
+    <link href="http://gist.wangxiaomo.space/2016/02/19/Editor/"/>
+    <id>http://gist.wangxiaomo.space/2016/02/19/Editor/</id>
+    <published>2016-02-19T11:57:20.000Z</published>
+    <updated>2016-02-19T12:11:36.000Z</updated>
+    
+    <content type="html">&lt;p&gt;晚上提示要更新到iTerm Beta3,自然是要升级的,然而升级之后iTerm就不听使唤了。一开始估计可能是自己的profile中的login command设置出错了,既然iTerm启动不起来，没法在偏好设置里面修改，于是打算通过defaults强制更新。&lt;/p&gt;
+&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;defaults &lt;span class=&quot;built_in&quot;&gt;read&lt;/span&gt; com.googlecode.iterm2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;发现要修改的选项是domain key下的字典键值,google了半天没什么好的方法。于是寻找&lt;code&gt;defaults editor&lt;/code&gt;,找到了&lt;code&gt;Prefs Editor&lt;/code&gt;.修改之后启动iTerm确实成功了,但iTerm依然崩溃不断。&lt;/p&gt;
+&lt;p&gt;懒得降级版本了,还是给宝宝洗尿布吧。&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;晚上提示要更新到iTerm Beta3,自然是要升级的,然而升级之后iTerm就不听使唤了。一开始估计可能是自己的profile中的login command设置出错了,既然iTerm启动不起来，没法在偏好设置里面修改，于是打算通过defaults强制更新。&lt;/p&gt;
+&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;defaults &lt;span class=&quot;built_in&quot;&gt;read&lt;/span&gt; com.googlecode.iterm2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;发现要修改的选项是domain key下的字典键值,google了半天没什么好的方法。于是寻找&lt;code&gt;defaults editor&lt;/code&gt;,找到了&lt;code&gt;Prefs Editor&lt;/code&gt;.修改之后启动iTerm确实成功了,但iTerm依然崩溃不断。&lt;/p&gt;
+&lt;p&gt;懒得降级版本了,还是给宝宝洗尿布吧。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="code" scheme="http://gist.wangxiaomo.space/tags/code/"/>
+    
+      <category term="osx" scheme="http://gist.wangxiaomo.space/tags/osx/"/>
+    
+  </entry>
   
   <entry>
     <title>试试图片</title>
